@@ -43,15 +43,15 @@ http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Brazzers_logo.png",Erox HD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Leo_TV.png/500px-Leo_TV.png",Extasy HD
+#EXTINF:-1 tvg-logo="https://pecka.tv/wp-content/plugins/telly-pecka-channel-logos/dist/extasy.png",Extasy HD
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Leo_TV.png/500px-Leo_TV.png",LeoHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Leo_tv_2007.svg/revision/latest?cb=20260401141008",LeoHD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Leo_TV.png/500px-Leo_TV.png",LeoGold HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsmGSiwnGPtO5WCG_3If1a6nGtyUbOmU5Yg&s",LeoGold HD
 http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Leo_TV.png/500px-Leo_TV.png",Dusk SD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwbdANhJesUWrAUUxWOn1Jd2crWR0Io_a8mE7RCH3fp0--oKSqYWKwG95h&s=10",Dusk SD
 http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Leo_TV.png/500px-Leo_TV.png",Desire HD
+#EXTINF:-1 tvg-logo="https://adult-tv-channels.click/assets/images/desire-tv.png",Desire HD
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Play_Boy_TV_logo.svg/500px-Play_Boy_TV_logo.svg.png",Vivid Red HD
 http://d029dcec.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/2162/manifest.m3u8
