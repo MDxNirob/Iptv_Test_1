@@ -1,0 +1,8 @@
+{
+  "name": "My Premium Streaming Center",
+  "description": "The ultimate collection of high-quality anime, movie, and live TV scrapers.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json"
+  ]
+}
